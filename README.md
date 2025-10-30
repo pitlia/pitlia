@@ -4,16 +4,16 @@
 <p>
   Saya seorang [<i>Mahasiswa / Front-End Developer / Penggiat Teknologi</i>] yang antusias dengan dunia web development. 
   <br/>
-  Saat ini sedang fokus belajar [<i>React.js / Tailwind CSS / ...</i>].
+  Saat ini sedang fokus belajar [<i>html, css, js</i>].
   <br/>
-  Di waktu luang, saya suka [<i>membaca buku / ngopi / ...</i>].
+  Di waktu luang, saya suka [<i>membaca buku, menonton film</i>].
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
