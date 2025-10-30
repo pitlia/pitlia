@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Fitri+Aulia+💻;Front-End+Developer+in+Progress" alt="Typing SVG" />
 </p>
 
-
 ### 👋 Tentang Saya
 <p>
   Saya seorang <i>Mahasiswa / Front-End Developer / Penggiat Teknologi</i> yang antusias dengan dunia web development. 
