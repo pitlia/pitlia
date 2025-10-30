@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#FF00EAFF;">Fitri Aulia</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Fitri+Aulia+💻;Front-End+Developer+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Fitri+Aulia+💻;Front-End+Developer+in+Progress" alt="Typing SVG" />
 </p>
 
 ### 👋 Tentang Saya
