@@ -35,6 +35,10 @@
 </p>
 
 
+<p align="center">
+  <img src="game.gif" alt="Brick Breaker Game" />
+</p>
+
 ---
 
 ### 📬 Hubungi Saya
