@@ -16,12 +16,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: MakdumIbrohim/gh-brick-breaker@main
+      - uses: MakdumIbrohim/commit-brick-breaker@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user: ${{ github.repository_owner }}
           output_path: game.gif
-          ball_skin: ice # Ganti opsi: classic | fire | ice | lightning | poison
+          ball_skin: lighthing # classic | fire | ice | lightning | poison
+          theme: sky # dark | sky | synthwave | matrix
+          paddle_skin: laser # default | laser | retro | mecha | cyber
 
       - name: Commit and Push
         run: |
