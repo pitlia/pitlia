@@ -21,7 +21,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user: ${{ github.repository_owner }}
           output_path: game.gif
-          ball_skin: lighthing # classic | fire | ice | lightning | poison
+          ball_skin: lightning # classic | fire | ice | lightning | poison
           theme: sky # dark | sky | synthwave | matrix
           paddle_skin: laser # default | laser | retro | mecha | cyber
 
